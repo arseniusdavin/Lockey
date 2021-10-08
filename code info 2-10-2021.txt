@@ -1,0 +1,18 @@
+integrasi dari 27-9-2021
+
+menggunakan MQTT 
+lockey info (baru dimasukkan dan perbaiki imei di fitur ini)
+handle booking ketika restart di publish_data 
+wifi connect flag 
+MQTT connect flag 
+jam nya GMT + 8
+ditambahkan alert restart yang dikirim menggunakan http, MQTT_flag == 0
+fitur buzzer off 
+fitur deepsleep untuk shutdown , baterai mati
+delay pada lokey tertahan menjadi 10800000
+
+tidak ada :
+2. force close
+3. ensure data 
+4. auto limit switch
+5. before open & before close
